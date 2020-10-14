@@ -1,0 +1,6 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcPoupanca\bin\Debug\CalcPoupanca.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcPoupanca\bin\Debug\CalcPoupanca.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcPoupanca\bin\Debug\CalcPoupanca.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcPoupanca\obj\Debug\CalcPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcPoupanca\obj\Debug\CalcPoupanca.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcPoupanca\obj\Debug\CalcPoupanca.pdb

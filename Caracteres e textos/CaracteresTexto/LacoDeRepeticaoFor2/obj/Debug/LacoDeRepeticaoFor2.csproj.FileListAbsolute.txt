@@ -1,0 +1,6 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\LacoDeRepeticaoFor2\bin\Debug\LacoDeRepeticaoFor2.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\LacoDeRepeticaoFor2\bin\Debug\LacoDeRepeticaoFor2.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\LacoDeRepeticaoFor2\bin\Debug\LacoDeRepeticaoFor2.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\LacoDeRepeticaoFor2\obj\Debug\LacoDeRepeticaoFor2.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\LacoDeRepeticaoFor2\obj\Debug\LacoDeRepeticaoFor2.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\LacoDeRepeticaoFor2\obj\Debug\LacoDeRepeticaoFor2.pdb

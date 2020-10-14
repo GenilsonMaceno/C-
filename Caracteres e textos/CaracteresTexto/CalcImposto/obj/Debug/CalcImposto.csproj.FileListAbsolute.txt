@@ -1,0 +1,7 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcImposto\bin\Debug\CalcImposto.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcImposto\bin\Debug\CalcImposto.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcImposto\bin\Debug\CalcImposto.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcImposto\obj\Debug\CalcImposto.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcImposto\obj\Debug\CalcImposto.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcImposto\obj\Debug\CalcImposto.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalcImposto\obj\Debug\CalcImposto.csprojAssemblyReference.cache

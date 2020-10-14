@@ -1,0 +1,7 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Swtich\bin\Debug\Swtich.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Swtich\bin\Debug\Swtich.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Swtich\bin\Debug\Swtich.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Swtich\obj\Debug\Swtich.csprojAssemblyReference.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Swtich\obj\Debug\Swtich.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Swtich\obj\Debug\Swtich.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Swtich\obj\Debug\Swtich.pdb

@@ -1,0 +1,6 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\ForEncadeado\bin\Debug\ForEncadeado.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\ForEncadeado\bin\Debug\ForEncadeado.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\ForEncadeado\bin\Debug\ForEncadeado.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\ForEncadeado\obj\Debug\ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\ForEncadeado\obj\Debug\ForEncadeado.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\ForEncadeado\obj\Debug\ForEncadeado.pdb

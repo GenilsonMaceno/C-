@@ -1,0 +1,7 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.csprojAssemblyReference.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.pdb

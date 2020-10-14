@@ -1,0 +1,6 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Multiplos3\bin\Debug\Multiplos3.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Multiplos3\bin\Debug\Multiplos3.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Multiplos3\bin\Debug\Multiplos3.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Multiplos3\obj\Debug\Multiplos3.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Multiplos3\obj\Debug\Multiplos3.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\Multiplos3\obj\Debug\Multiplos3.pdb

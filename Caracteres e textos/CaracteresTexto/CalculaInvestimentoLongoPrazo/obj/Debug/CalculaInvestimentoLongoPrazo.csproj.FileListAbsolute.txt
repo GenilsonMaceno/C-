@@ -1,0 +1,7 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaInvestimentoLongoPrazo\bin\Debug\CalculaInvestimentoLongoPrazo.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaInvestimentoLongoPrazo\bin\Debug\CalculaInvestimentoLongoPrazo.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaInvestimentoLongoPrazo\bin\Debug\CalculaInvestimentoLongoPrazo.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaInvestimentoLongoPrazo\obj\Debug\CalculaInvestimentoLongoPrazo.csprojAssemblyReference.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaInvestimentoLongoPrazo\obj\Debug\CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaInvestimentoLongoPrazo\obj\Debug\CalculaInvestimentoLongoPrazo.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaInvestimentoLongoPrazo\obj\Debug\CalculaInvestimentoLongoPrazo.pdb

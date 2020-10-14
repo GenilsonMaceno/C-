@@ -1,0 +1,6 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CondicionaisPart2\bin\Debug\CondicionaisPart2.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CondicionaisPart2\bin\Debug\CondicionaisPart2.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CondicionaisPart2\bin\Debug\CondicionaisPart2.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CondicionaisPart2\obj\Debug\CondicionaisPart2.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CondicionaisPart2\obj\Debug\CondicionaisPart2.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CondicionaisPart2\obj\Debug\CondicionaisPart2.pdb

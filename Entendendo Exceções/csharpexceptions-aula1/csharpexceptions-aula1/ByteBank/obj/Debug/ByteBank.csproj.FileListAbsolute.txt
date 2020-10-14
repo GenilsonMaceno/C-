@@ -1,0 +1,14 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\genil\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\genil\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\genil\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\genil\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\genil\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\genil\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\genil\Dropbox\C-Sharp\Entendendo Exceções\csharpexceptions-aula1\csharpexceptions-aula1\ByteBank\bin\Debug\ByteBank.pdb

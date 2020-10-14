@@ -1,0 +1,6 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\TransformandoWhileEmFor\bin\Debug\TransformandoWhileEmFor.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\TransformandoWhileEmFor\bin\Debug\TransformandoWhileEmFor.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\TransformandoWhileEmFor\bin\Debug\TransformandoWhileEmFor.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\TransformandoWhileEmFor\obj\Debug\TransformandoWhileEmFor.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\TransformandoWhileEmFor\obj\Debug\TransformandoWhileEmFor.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\TransformandoWhileEmFor\obj\Debug\TransformandoWhileEmFor.pdb

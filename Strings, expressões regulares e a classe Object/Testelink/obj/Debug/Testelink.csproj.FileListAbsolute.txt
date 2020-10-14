@@ -1,0 +1,7 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Strings, expressões regulares e a classe Object\Testelink\bin\Debug\Testelink.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Strings, expressões regulares e a classe Object\Testelink\bin\Debug\Testelink.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Strings, expressões regulares e a classe Object\Testelink\bin\Debug\Testelink.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Strings, expressões regulares e a classe Object\Testelink\obj\Debug\Testelink.csprojAssemblyReference.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Strings, expressões regulares e a classe Object\Testelink\obj\Debug\Testelink.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Strings, expressões regulares e a classe Object\Testelink\obj\Debug\Testelink.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Strings, expressões regulares e a classe Object\Testelink\obj\Debug\Testelink.pdb

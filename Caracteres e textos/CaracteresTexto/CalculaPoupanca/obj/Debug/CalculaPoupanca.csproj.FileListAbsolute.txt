@@ -1,0 +1,7 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaPoupanca\bin\Debug\CalculaPoupanca.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaPoupanca\bin\Debug\CalculaPoupanca.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaPoupanca\bin\Debug\CalculaPoupanca.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaPoupanca\obj\Debug\CalculaPoupanca.csprojAssemblyReference.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaPoupanca\obj\Debug\CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaPoupanca\obj\Debug\CalculaPoupanca.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Caracteres e textos\CaracteresTexto\CalculaPoupanca\obj\Debug\CalculaPoupanca.pdb

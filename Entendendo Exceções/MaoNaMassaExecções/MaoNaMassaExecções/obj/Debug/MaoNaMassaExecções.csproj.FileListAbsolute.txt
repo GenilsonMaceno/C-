@@ -1,0 +1,7 @@
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\MaoNaMassaExecções\MaoNaMassaExecções\bin\Debug\MaoNaMassaExecções.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\MaoNaMassaExecções\MaoNaMassaExecções\bin\Debug\MaoNaMassaExecções.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\MaoNaMassaExecções\MaoNaMassaExecções\bin\Debug\MaoNaMassaExecções.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\MaoNaMassaExecções\MaoNaMassaExecções\obj\Debug\MaoNaMassaExecções.csprojAssemblyReference.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\MaoNaMassaExecções\MaoNaMassaExecções\obj\Debug\MaoNaMassaExecções.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\MaoNaMassaExecções\MaoNaMassaExecções\obj\Debug\MaoNaMassaExecções.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entendendo Exceções\MaoNaMassaExecções\MaoNaMassaExecções\obj\Debug\MaoNaMassaExecções.pdb

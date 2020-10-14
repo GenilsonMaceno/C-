@@ -1,0 +1,14 @@
+C:\Users\genil\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\genil\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\genil\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\genil\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Users\genil\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\genil\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\genil\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\genilson.maceno\Dropbox\C-Sharp\Entrada e saída com streams\csharppt9-aula0\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
